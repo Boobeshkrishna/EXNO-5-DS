@@ -19,8 +19,8 @@ STEP 5:Include Necessary parameters in each functions.
 
 # Coding and Output:
 ```
-NAME : JERUSHLIN JOSE JB
-REG NO : 212222240039
+NAME :BOOESH PM
+REG NO : 212222233001
 ```
 ```
 import matplotlib.pyplot as plt
